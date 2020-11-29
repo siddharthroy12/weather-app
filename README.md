@@ -4,3 +4,5 @@
 
 # Live site
 > https://weatha.netlify.app/
+
+![screenshot](https://github.com/siddharthroy12/weather-app/blob/main/public/img/screenshot.png)
